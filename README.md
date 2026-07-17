@@ -6,7 +6,7 @@ prosperomerge is a GUI tool made using [LuaRT](https://github.com/samyeyo/LuaRT)
 # First launch is long
 First bootup might take a little longer because the app fetches information about your updates from [PROSPEROPatches](https://prosperopatches.com/)
 
-# I found a bug or i have a suggestions
+# I found a bug or i have a suggestion
 Go to the issues tab and post your idea there
 
 # Closed source?
